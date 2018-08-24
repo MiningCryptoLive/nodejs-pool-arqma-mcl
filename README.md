@@ -1,5 +1,5 @@
 Important Info
-==================
+===================
 Many thanks to MoneroOcean for his job.
 
 Basic system is forked from last single coin repository:
